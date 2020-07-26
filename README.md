@@ -10,10 +10,10 @@ As the coronavirus outbreak continues to spread in the country, the question tha
 We need a strong model that predicts how the virus could spread across different countries and regions. The goal of this task is to build a model that predicts the spread of the virus in the next 7 days.
 
 # Tasks to be performed:
-....Analysing the present condition in India
-....Is this trend similar to Italy/S. Korea/ Wuhan
-....Exploring the world wide data
-....Forecasting the world wide COVID-19 cases using Prophet
+1. Analysing the present condition in India
+2. Is this trend similar to Italy/S. Korea/ Wuhan
+3. Exploring the world wide data
+4. Forecasting the world wide COVID-19 cases using Prophet
 
 ## Data Source:
 * https://www.mohfw.gov.in/
